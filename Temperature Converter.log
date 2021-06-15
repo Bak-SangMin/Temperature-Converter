@@ -1,0 +1,12 @@
+﻿  Temperature Converter.cpp
+C:\Users\cdowd\source\repos\Temperature Converter\Temperature Converter.cpp(53,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\cdowd\source\repos\Temperature Converter\Temperature Converter.cpp(57,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\cdowd\source\repos\Temperature Converter\Temperature Converter.cpp(67,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\cdowd\source\repos\Temperature Converter\Temperature Converter.cpp(74,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\cdowd\source\repos\Temperature Converter\Temperature Converter.cpp(84,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\cdowd\source\repos\Temperature Converter\Temperature Converter.cpp(88,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Temperature Converter.vcxproj -> C:\Users\cdowd\source\repos\Temperature Converter\Release\Temperature Converter.exe
