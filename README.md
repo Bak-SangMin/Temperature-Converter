@@ -3,9 +3,9 @@
 Welcome, this is a simple calculator to convert temperatures fromm one scale to Celcius, Fahrenheit, and Kelvin).
 It operates in the command prompt and will automatically close when you are done.
 
-Note: If you enter an invalid value it will automatically close. <n/>
+Note: If you enter an invalid value it will automatically close.
 
-Note: The program will be unreconigsed.
+Note: The program will be unreconigsed by windows and will display warning messages (It is safe).
 
 Note: If it says you are missing a .dll file then try opening it instead of saving it.
 
